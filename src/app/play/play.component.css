@@ -1,0 +1,18 @@
+.box{
+    width: 45%;
+    height: 600px;
+    background-color: gainsboro;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    margin-left: 20px;
+}
+.btn{
+    align-self: center;
+    margin-left: 20px;
+    margin-top: 10px; 
+    margin-bottom: 10px; 
+    width: 100px;
+    height: 50px;
+}
